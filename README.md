@@ -5,5 +5,5 @@
  - A website to count the length of the string --> https://www.lettercount.com/ 
 -	`Decode base64 code by python `
 -	Classic cypher ---> commonly means rot 13 (Caesar's Cipher)..
--	32 chars ---> md5 hash (one of the guesses)
+-	32 chars ---> md5 hash (one of the Algorithms)
 -	Base 32 doesn't has capital letters in it..
