@@ -4,8 +4,6 @@
  - in base-64 --> the = sign is always added to the end of the string (if it's length doesn't divided by 4)
  - a website to count the length of the string --> https://www.lettercount.com/ 
 -	`Decode base64 code by python `
--	classic cypher * sooooo * commonly means rot 13 هذه شفرة قيصر غالبا..
--	32 chars * sooooo * md5 hash
--	Base 32 * does not *  have capital letters in it 
--	
- 
+-	classic cypher ---> commonly means rot 13 (Caesar's Cipher)..
+-	32 chars ---> md5 hash (one of the guesses)
+-	Base 32 doesn't has capital letters in it..
